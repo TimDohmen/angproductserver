@@ -46,7 +46,10 @@
 -- VALUES
 -- ("Video Game Controller", "GMG-0042", "October 15, 2020", "Standard two-button video game controller.", 35.95, 4.6,"assets/images/xbox-controller.png");
 
-ALTER TABLE products RENAME COLUMN number TO starRating;
+ALTER TABLE products CHANGE number starRating DECIMAL(4,2);
+
+ALTER TABLE products
+MODIFY COLUMN imageUrl TEXT;
 
 INSERT INTO products
 ( productName, productCode, releaseDate, description, price, starRating, imageUrl)
