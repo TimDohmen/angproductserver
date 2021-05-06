@@ -1,0 +1,12 @@
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.exe
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\appsettings.Development.json
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\appsettings.json
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\omnisharp.json
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.dll
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.deps.json
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.runtimeconfig.json
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.pdb
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
