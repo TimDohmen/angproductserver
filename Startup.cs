@@ -43,7 +43,8 @@ namespace angproductserver
               {
                 builder
                   .WithOrigins(new string[]{
-                   "http://localhost:4200"
+                   "http://localhost:4200",
+                   "https://timdohmen.github.io"
                   })
                 .AllowAnyMethod()
                 .AllowAnyHeader()
@@ -72,6 +73,7 @@ namespace angproductserver
         app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "angproductserver v1"));
         app.UseCors("CorsDevPolicy");
       }
+      app.UseCors("CorsDevPolicy");
 
       app.UseHttpsRedirection();
 

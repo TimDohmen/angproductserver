@@ -7,8 +7,8 @@ namespace angproductserver.Models
     public string ProductCode { get; set; }
     public string ReleaseDate { get; set; }
     public string Description { get; set; }
-    public int Price { get; set; }
-    public int Number { get; set; }
+    public decimal Price { get; set; }
+    public decimal StarRating { get; set; }
     public string ImageUrl { get; set; }
   }
 }
