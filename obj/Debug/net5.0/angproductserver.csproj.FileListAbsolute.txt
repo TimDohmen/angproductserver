@@ -28,3 +28,5 @@ C:\source\postWorks\angular\angproductserver\obj\Debug\net5.0\angproductserver.d
 C:\source\postWorks\angular\angproductserver\obj\Debug\net5.0\ref\angproductserver.dll
 C:\source\postWorks\angular\angproductserver\obj\Debug\net5.0\angproductserver.pdb
 C:\source\postWorks\angular\angproductserver\obj\Debug\net5.0\angproductserver.genruntimeconfig.cache
+C:\source\postWorks\angular\angproductserver\bin\Debug\net5.0\Dapper.dll
+C:\source\postWorks\angular\angproductserver\bin\Debug\net5.0\MySqlConnector.dll

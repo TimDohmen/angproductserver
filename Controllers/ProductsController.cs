@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace angproductserver.Controllers
 {
   [ApiController]
-  [Route("/api/products")]
+  [Route("/api/[controller]")]
   public class ProductsController : ControllerBase
   {
 
