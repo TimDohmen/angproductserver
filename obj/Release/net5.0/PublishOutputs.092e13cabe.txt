@@ -6,7 +6,9 @@ C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angprodu
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.deps.json
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.runtimeconfig.json
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\angproductserver.pdb
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Dapper.dll
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\MySqlConnector.dll
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\source\postWorks\angular\angproductserver\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
